@@ -9,39 +9,49 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education 📚
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Software Engineering, Peruvian University of Applied Sciences, 2021 - 
 
-Work experience
+Work experience 💼
 ======
-* Spring 2024: Academic Pages Collaborator
+* Aug 2024 - Present: Junior SDET
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2023 - Jul 2024: Software Automation Engineer Intern
+  * Implement and maintain automated test scripts to ensure the functionality, performance, and scalability of applications used extensively by insurance companies in the US.
+  * Propose and implement automated tasks to effectively debug applications, enhancing software products through automation efforts and reducing costs significantly.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2023 - Abr 2023: Software Engineer Intern
+  * Design and coded a web application that improved the efficiency of credit card statement generation and reduced claims by 30% while increasing customer satisfaction.
+  * Implemented a chatbot API to assist advisors in managing client processes with a focus on reducing call handling time and increasing NPS (Net Promoter Score).
   
-Skills
+Skills 🧰
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Frameworks
+  * React
+  * Vue.js
+  * .NET
+  * Nest.js
+* Programming Languages
+  * Python
+  * Typescript
+  * C#
+  * Javascript
+  * C++
+* Software Tools
+  * Git
+  * Docker
+  * MySQL
+  * PostgreSQL
+* Services
+  * Azure [AI-900]
+  * AWS
+  * GitHub [GitHub Foundations, GitHub Actions]
 
-Publications
+Publications 🔍
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -59,6 +69,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and leadership 🚀
 ======
-* Currently signed in to 43 different slack teams
+* VicePresident at IEEE Computer Society UPC
+* Microsoft Student Ambassador [GOLD Milestone]
+* GitHub Campus Expert
