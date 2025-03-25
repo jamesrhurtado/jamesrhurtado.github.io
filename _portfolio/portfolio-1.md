@@ -1,6 +1,6 @@
 ---
 title: "Leasy"
-excerpt: "A web app that allows users to generate and save reports for financial lease analysis using an algorithm based on the German payment plan method.<br/><img src='/images/500x300.png'>"
+excerpt: "A web app that allows users to generate and save reports for financial lease analysis using an algorithm based on the German payment plan method <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
