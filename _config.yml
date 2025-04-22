@@ -13,7 +13,7 @@ title                    : "James Hurtado"
 title_separator          : "-"
 name                     : &name "James Hurtado"
 description              : &description "Software Engineer"
-url                      : https://jamesrhurtado.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://jamesrhurtado.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jamesrhurtado/jamesrhurtado.github.io"
 
